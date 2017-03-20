@@ -32,4 +32,12 @@
             "forward": true
         }
     },
+    {   
+        "keys": ["alt+u"],
+        "command": "upper_case"
+    },
+    {   
+        "keys": ["alt+l"],
+        "command": "lower_case"
+    },
 ]
