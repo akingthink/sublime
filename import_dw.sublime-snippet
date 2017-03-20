@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+from dwUtility import *
+(start_time, end_time, game_cd, publisher_cd, backtracking, no_execute) = getArgs()[:6]
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>idw</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
