@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[CREATE ${1:EXTERNAL} TABLE IF NOT EXISTS ${2:TABLE_NAME}
+(
+    ${3:COLUMN_LIST}
+)
+PARTITIONED BY
+(
+    ${4:PARTITION_LIST}
+)
+STORED AS ${5:ORC} 
+${7:LOCATION }
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cpt</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python,source.sql,source.hive</scope>
+    <!-- <description>description</description> -->
+</snippet>
+

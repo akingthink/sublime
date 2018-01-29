@@ -40,4 +40,8 @@
         "keys": ["alt+l"],
         "command": "lower_case"
     },
+    {
+        "keys": ["super+ctrl+v"],
+        "command": "paste_and_indent"
+    },
 ]

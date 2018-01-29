@@ -93,7 +93,8 @@
 			"javascript (babel)": "javascript",
 			"magicpython": "python",
 			"php": "html",
-			"python django": "python"
+			"python django": "python",
+			"r extended": "r"
 		},
 		"warning_color": "DDB700",
 		"wrap_find": true

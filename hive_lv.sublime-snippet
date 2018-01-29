@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[LATERAL VIEW explode(${1:split}) t as ${2:column}
+]]></content>
+        <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>lv</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python,source.sql,source.hive</scope>
+    <!-- <description>description</description> -->
+</snippet>

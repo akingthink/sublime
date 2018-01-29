@@ -1,0 +1,41 @@
+[
+	{
+		"args":
+		{
+			"close_panel": true
+		},
+		"command": "replace_all"
+	},
+	{
+		"args":
+		{
+			"close_panel": true
+		},
+		"command": "replace_all"
+	},
+	{
+		"args":
+		{
+			"close_panel": true
+		},
+		"command": "replace_all"
+	},
+	{
+		"args":
+		{
+			"close_panel": true
+		},
+		"command": "replace_all"
+	},
+	{
+		"args":
+		{
+			"close_panel": true
+		},
+		"command": "replace_all"
+	},
+	{
+		"args": null,
+		"command": "save_macro"
+	}
+]
