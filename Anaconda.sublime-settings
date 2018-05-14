@@ -4,5 +4,6 @@
     [
         "E309",
         "E501"
-    ]
+    ],
+    "python_interpreter": "/Users/yangwenjin/anaconda3/bin/python"
 }

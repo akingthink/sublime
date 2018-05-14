@@ -8,12 +8,6 @@
 # **  Create Time : ${2:date}
 # **  Author      : yangwenjin
 ####################################################################################
-# Data Flow
-# source:
-#   ${3:data_source}
-# target:
-#   ${4:data_source}
-####################################################################################
 
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

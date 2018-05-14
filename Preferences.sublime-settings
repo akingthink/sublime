@@ -21,6 +21,7 @@
 		"item-base/di_item_base/**",
 		"item-base/redshift_item_base/log/**"
 	],
+	"close_windows_when_empty": true,
 	"color_inactive_tabs": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"create_window_at_startup": false,
@@ -49,5 +50,7 @@
 	"tab_size": 4,
 	"tabs_small": true,
 	"theme": "Afterglow-green.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"swallow_startup_errors": true
 }
