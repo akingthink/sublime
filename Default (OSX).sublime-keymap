@@ -16,7 +16,7 @@
             "file": "config/Python/Main.sublime-menu"
         }
     },
-    { 
+    {
         "keys": ["alt+left"],
         "command": "move",
         "args": {
@@ -24,7 +24,7 @@
             "forward": false
         }
     },
-    {   
+    {
         "keys": ["alt+right"],
         "command": "move",
         "args": {
@@ -32,16 +32,23 @@
             "forward": true
         }
     },
-    {   
+    {
         "keys": ["alt+u"],
         "command": "upper_case"
     },
-    {   
+    {
         "keys": ["alt+l"],
         "command": "lower_case"
     },
     {
         "keys": ["super+ctrl+v"],
         "command": "paste_and_indent"
+    },
+    {
+        "keys": ["super+shift+k"],
+        "command": "dash_doc",
+        "args": {
+            "flip_syntax_sensitive": true
+        }
     },
 ]

@@ -1,6 +1,8 @@
 <snippet>
     <content><![CDATA[
-from dwUtility import *
+from dwUtilityV2 import getArgs
+from dwUtilityV2 import timeAdd
+from dwUtilityV2 import DbCursor
 (start_time, end_time, game_cd, publisher_cd, backtracking, no_execute) = getArgs()[:6]
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

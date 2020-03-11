@@ -1,5 +1,9 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://raw.githubusercontent.com/wilon/sublime/master/download/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
@@ -14,9 +18,11 @@
 		"BracketHighlighter",
 		"Codecs33",
 		"ConvertToUTF8",
-		"DocBlockr",
+		"DashDoc",
 		"DocBlockr_Python",
+		"Dockerfile Syntax Highlighting",
 		"GitGutter",
+		"Insert Nums",
 		"JsFormat",
 		"Package Control",
 		"Pretty JSON",

@@ -1,7 +1,12 @@
 [
-	"~/GoogleDrive/02.source_code/sublme-project/mousika.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/master_data.sublime-project",
+	"~/GoogleDrive/02.source_code/sublme-project/airflow1.8.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/Documents-data-department.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/muse_itembase.sublime-project",
 	"~/GoogleDrive/02.source_code/sublme-project/all.sublime-project",
 	"~/GoogleDrive/02.source_code/sublme-project/v4.sublime-project",
-	"~/GoogleDrive/02.source_code/sublme-project/itembase.sublime-project",
-	"~/GoogleDrive/02.source_code/sublme-project/airflow.sublime-project"
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/ambari-presto-service.sublime-project",
+	"~/GoogleDrive/02.source_code/sublme-project/airflow.sublime-project",
+	"~/GoogleDrive/02.source_code/sublme-project/mousika.sublime-project",
+	"~/GoogleDrive/02.source_code/sublme-project/itembase.sublime-project"
 ]

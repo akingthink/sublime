@@ -25,6 +25,7 @@
 	"color_inactive_tabs": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"create_window_at_startup": false,
+	"encoding": "utf8",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Monaco",
 	"font_size": 18,
@@ -32,7 +33,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
 	"index": true,
@@ -42,15 +42,18 @@
 		"/Users/yangwenjin/Google 云端硬盘/02.source_code/it-audit-system*",
 		"/Users/yangwenjin/Google 云端硬盘/02.source_code/item-base-new*"
 	],
+	"mdpopups.sublime_user_lang_map":
+	{
+	},
 	"mdpopups.use_sublime_highlighter": true,
 	"open_files_in_new_window": false,
 	"show_definitions": true,
 	"show_encoding": true,
 	"sidebar_size_13": true,
+	"swallow_startup_errors": true,
 	"tab_size": 4,
 	"tabs_small": true,
 	"theme": "Afterglow-green.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"swallow_startup_errors": true
+	"trim_trailing_white_space_on_save": true
 }
